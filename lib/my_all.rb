@@ -13,3 +13,5 @@ if new_collection.include?(false)
 else
   true
 end
+end
+end
